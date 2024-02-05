@@ -28,5 +28,47 @@
         "image": "",
         "Message": ""
       }
+    ],
+
+    "Schedule": [
+        {
+            "id": 1,
+            "name": ,
+            "time": 
+        },
+        {
+            "id": 2,
+            "name": ,
+            "time":
+        },
+        {
+            "id": 3,
+            "name": ,
+            "time": 
+        },
+        {
+            "id": 4,
+            "name": ,
+            "time": 
+        }
+      ],
+    "Events": [
+        {
+            "id": 1,
+            "name": ,
+            "prive": 
+        },
+        {
+            "id": 2,
+            "name": ,
+            "time":
+        },
+        {
+            "id": 3,
+            "name": ,
+            "time": 
+        },
     ]
+
   }
+
